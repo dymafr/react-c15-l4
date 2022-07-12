@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import HomePage from './pages/HomePage/HomePage';
+import Admin from './pages/Admin/Admin';
 import styles from './App.module.scss';
 import { seedRecipes } from './data/seed';
 
