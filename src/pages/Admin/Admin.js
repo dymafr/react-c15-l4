@@ -1,3 +1,4 @@
+import React from 'react';
 import RecipeForm from './components/RecipeForm/RecipeForm';
 
 function Admin() {
